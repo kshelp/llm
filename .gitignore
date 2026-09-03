@@ -1,0 +1,12 @@
+# Environments
+__pycache__
+.claude
+.env
+.venv
+
+# Code
+build
+AIAgent
+ch09/02_풀파인튜닝/saved_models
+ch09/03_LoRA/saved_models
+ch09/04_QLoRA/saved_models
